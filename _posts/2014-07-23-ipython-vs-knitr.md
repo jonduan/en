@@ -11,9 +11,10 @@ tags: [IPython, knitr, shiny, RStudio, Websocket, Emacs Lisp]
 
 I am econometrics student. I first learned R and knitr, and then I learned a little Python and IPython notebook. They are similar. I am wondering why smart people usually have the same idea.  
 
-I just find that I can use R and Octave in IPython notebook.
-[Rpy](http://rpy.sourceforge.net/rpy2.html)
-[Octpy](http://blink1073.github.io/oct2py/docs/)
+I just find that I can use R and Octave in IPython notebook.  
+
+- [Rpy](http://rpy.sourceforge.net/rpy2.html)  
+- [Octpy](http://blink1073.github.io/oct2py/docs/)  
 
 There is [youtube video](https://www.youtube.com/watch?feature=player_detailpage&v=F4rFuIb1Ie4&list=WL#t=2107) show how we can do it.
 
