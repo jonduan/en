@@ -5,6 +5,8 @@ categories: [R language, Computer Science]
 tags: [Markdown, LaTeX, HTML, printing]
 ---
 
+This is my favorite form yihui's blog
+
 > What happens if you ask for too much power from Markdown?
 
 ![](http://i.imgur.com/vGwGF7s.gif)
